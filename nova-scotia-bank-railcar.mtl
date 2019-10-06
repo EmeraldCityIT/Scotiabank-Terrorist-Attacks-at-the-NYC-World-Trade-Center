@@ -1,0 +1,209 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wheels
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.600000 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Wheels.jpg
+
+newmtl _Metal_Seamed_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.545098 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/_Metal_Seamed_1.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Black_Rivets
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Black_Rivets.jpg
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.701961 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Metal_Seamed.jpg
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Trim
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.337255 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Wood_Trim.jpg
+
+newmtl _Metal_Seamed__4
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.164706 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/_Metal_Seamed__4.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_C07
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.352941 0.160784
+Ks 0.330000 0.330000 0.330000
+
+newmtl Window_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.521569 0.376471
+Ks 0.330000 0.330000 0.330000
+d 0.690000
+map_Kd nova-scotia-bank-railcar/Window_1.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Metal_Aluminum_Anodized.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Gold_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.301961 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Gold_1.jpg
+
+newmtl Red_Carpet
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.172549 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Red_Carpet.jpg
+
+newmtl Wood__Floor
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.411765 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Wood__Floor.jpg
+
+newmtl _Metal_Rusted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.458824 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/_Metal_Rusted_1.jpg
+
+newmtl Walls_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.878431 0.886275 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl Plate_Metal
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.572549 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Plate_Metal.jpg
+
+newmtl _8
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.298039 0.294118
+Ks 0.330000 0.330000 0.330000
+
+newmtl Gold
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.494118 0.270588
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Seamed__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.101961 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/_Metal_Seamed__2.jpg
+
+newmtl Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.250980 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Material.jpg
+
+newmtl Material_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.741176 0.764706
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Material_1.jpg
+
+newmtl Material_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.078431 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Material_3.jpg
+
+newmtl Color_F22
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.317647 0.058824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.749020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.749020 0.054902
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.615686 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Metal_Rough.jpg
+
+newmtl _Metal_Seamed__5
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.101961 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/_Metal_Seamed__5.jpg
+
+newmtl Stars_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.054902 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Stars_1.jpg
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.003922 0.023529
+Ks 0.330000 0.330000 0.330000
+
+newmtl Lighter_Wood_Trim
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.721569 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Lighter_Wood_Trim.jpg
+
+newmtl _Metal_Seamed__3
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.125490 0.270588
+Ks 0.330000 0.330000 0.330000
+d 0.600000
+map_Kd nova-scotia-bank-railcar/_Metal_Seamed__3.jpg
+
+newmtl Vent_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.419608 0.286275
+Ks 0.330000 0.330000 0.330000
+map_Kd nova-scotia-bank-railcar/Vent_1.jpg
+
